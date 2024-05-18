@@ -46,6 +46,9 @@ body {
     font-weight: 220;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
   }
+  .center{
+    text-align: center;
+  }
 
   .header {
     padding: 0 0.6rem;
