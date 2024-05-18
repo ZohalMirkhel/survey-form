@@ -27,3 +27,16 @@ body {
       ),
       url(https://img.freepik.com/free-vector/neon-effect-background-design_52683-71976.jpg?t=st=1716025614~exp=1716029214~hmac=0f345874563a79068d6883503374f68ffe26b13a59bc5a9855cc875b694a1a67&w=826);
   }
+
+  h1 {
+    font-weight: 430;
+    line-height: 1.25;
+    margin-bottom: 0.5rem;
+  }
+  
+  p {
+    font-size: 1.130rem;
+    margin-top: 0;
+  }
+  
+  
