@@ -29,7 +29,7 @@ To set up this project locally, follow these steps:
 
 3. **Open the `form.html` file in your browser**:
    ```bash
-   open index.html
+   open form.html
    ```
    
 4. **View the source code:**
