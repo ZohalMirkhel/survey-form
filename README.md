@@ -27,7 +27,7 @@ To set up this project locally, follow these steps:
    cd survey-form
    ```
 
-3. **Open the `index.html` file in your browser**:
+3. **Open the `form.html` file in your browser**:
    ```bash
    open index.html
    ```
