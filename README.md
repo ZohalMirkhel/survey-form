@@ -70,6 +70,5 @@ If you see a problem in the code or want to discuss potential improvements, feel
 
 ## Author
 For any questions, feedback, or support, please contact me at:
-- LinkedIn: Still cannot access my LinkedIn account.
 - Email: [Zohal Mirkhel] zohalmirkhel@gmail.com
 - GitHub: [Zohal Mirkhel] https://github.com/ZohalMirkhel 
