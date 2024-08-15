@@ -1,5 +1,4 @@
 # survey-form
-Survey From 
 
 The form asks users for inputs such as name, email, age(Optional), job, if they would offer freeCodeCamp to a friend, favorite freeCodeCamp feature, improvments, and if they have other suggestions.
 And they should submit the form after filling it. 
